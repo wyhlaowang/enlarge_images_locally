@@ -35,10 +35,10 @@
 | images_dir        | Directory where the images are stored           |
 | roi_number        | Number of zoom-in boxes to be drawn             |
 | mode              | "inside": built-in zoom-in box; "outside": external zoom-in box; "only_roi": only draw the ROI without zooming |
-| outside_position  | Position of the external zoom-in box (applies only to "outside" mode)         |
-| inside_position   | Position of the built-in zoom-in box (applies only to "inside" mode)          |
-| scale             | Zoom scale (applies only to "inside" mode)|
-| if_dash_box       | Set to True if you want dashed ROI boxes        |
+| outside_position  | Position of the external zoom-in box (for "outside" mode)         |
+| inside_position   | Position of the built-in zoom-in box (for "inside" mode)          |
+| scale             | Zoom scale (for "inside" mode)|
+| if_dash_box       | Set to "True" if you want dashed ROI boxes        |
 
 
 - The following parameters can be kept as default:

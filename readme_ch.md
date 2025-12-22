@@ -38,7 +38,7 @@
 | outside_position | 外置放大框的位置 （只适用于"outside"模式）| 
 | inside_position  | 内置放大框的位置 （只适用于"inside"模式） | 
 | scale            | 缩放倍率（只适用于"inside"模式）         | 
-| if_dash_box      | 需要ROI虚线框时置为True     |   
+| if_dash_box      | 需要ROI虚线框时置为"True"     |   
 
 
 - 以下 参数↓ 可以保持默认即可
