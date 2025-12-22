@@ -2,21 +2,21 @@
 
 💬 [🌟 [English Version] 🌟](readme.md) 
 
-- **多种模式** 🖼️🔍
+- **多种模式** 🔍
   
 <div style="display: flex;">
     <img src="doc/mode.jpg" width="500">
 </div>
 <br>
 
-- **任意ROI数量** ➕🔲
+- **任意ROI数量** ➕
 
 <div style="display: flex;">
     <img src="doc/number.jpg" width="500">
 </div>
 <br>
 
-- **灵活的放置** 📍📏
+- **灵活的放置** 📍
 
 <div style="display: flex;">
     <img src="doc/location.jpg" width="500">

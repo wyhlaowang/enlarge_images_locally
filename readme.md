@@ -2,21 +2,21 @@
 
 💬 [🌟 [中文版本] 🌟](readme_ch.md) 
 
-- **Multiple Modes** 🖼️🔍
+- **Multiple Modes** 🔍
 
 <div style="display: flex;">
     <img src="doc/mode.jpg" width="500">
 </div>
 <br>
 
-- **Customizable Number of ROIs** ➕🔲
+- **Customizable Number of ROIs** ➕
 
 <div style="display: flex;">
     <img src="doc/number.jpg" width="500">
 </div>
 <br>
 
-- **Flexible Placement** 📍📏
+- **Flexible Placement** 📍
 
 <div style="display: flex;">
     <img src="doc/location.jpg" width="500">
