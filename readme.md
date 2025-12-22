@@ -26,7 +26,7 @@
 ## Usage 🚀
 1. Simply install ```python``` and ```opencv-python```.
 2. Place all the images you wish to annotate in the same folder (supports different formats and resolutions).
-3. Set the parameters in ```zoomTool.py``` under the ```CONFIGS``` section. Refer to <*Parameter Explanation*> for details.
+3. Set the parameters in ```zoomTool.py``` under ```CONFIGS```. Refer to <*Parameter Explanation*> for details.
 4. Run ```zoomTool.py```.
 
 ## Parameter Explanation ⚙️
